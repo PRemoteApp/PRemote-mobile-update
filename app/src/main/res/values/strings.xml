@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PRemote</string>
+    <string name="welcome">Welcome to PRemote</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="welcome_hint">Login or Register to get started</string>
 </resources>
