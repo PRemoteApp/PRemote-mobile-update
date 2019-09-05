@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1000433165499",
+    "firebase_url": "https://premote-4b457.firebaseio.com",
+    "project_id": "premote-4b457",
+    "storage_bucket": "premote-4b457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000433165499:android:b6d03fa1d43a8e3ed0b59e",
+        "android_client_info": {
+          "package_name": "me.khukhuna.premot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000433165499-kdm4j83b850fdk3qt0gs7mgjgvpdgeqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeQitK3n51ed9fQ9TuxbxCqOu5hUs-iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000433165499-kdm4j83b850fdk3qt0gs7mgjgvpdgeqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000433165499:android:eb87f7c239ecc61dd0b59e",
+        "android_client_info": {
+          "package_name": "me.khukhuna.premote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000433165499-p49qsgs0r07ti4s2p89oj15o4nfc5j47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.khukhuna.premote",
+            "certificate_hash": "a0e316260c3d654f8cba623e6cbad84314199f64"
+          }
+        },
+        {
+          "client_id": "1000433165499-kdm4j83b850fdk3qt0gs7mgjgvpdgeqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeQitK3n51ed9fQ9TuxbxCqOu5hUs-iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000433165499-kdm4j83b850fdk3qt0gs7mgjgvpdgeqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
