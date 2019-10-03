@@ -3,7 +3,7 @@
 
 # PRemote-Android
 Remote PC controll application made during EUhack - Free Hacking. <br/>
-This repository is **Android side** of PRemote.
+This repository is **Android side** of PRemote (Updated UI). 
 
 ### What is it?3
 PRemote is an application that allows you to control your PC from mobile.
